@@ -1,0 +1,15 @@
+{
+    "icons": [
+        {
+            "style": "outline",
+            "width": 24,
+            "height": 24,
+            "tags": "",
+            "name": "network",
+            "content": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" class=\"nc-icon-wrapper\" stroke=\"none\"><rect x=\"3\" y=\"2\" width=\"7\" height=\"5\" rx=\".6\" stroke=\"#ffffff\" stroke-width=\"2\"></rect><rect x=\"8.5\" y=\"17\" width=\"7\" height=\"5\" rx=\".6\" stroke=\"#ffffff\" stroke-width=\"2\"></rect><rect x=\"14\" y=\"2\" width=\"7\" height=\"5\" rx=\".6\" stroke=\"#ffffff\" stroke-width=\"2\"></rect><path d=\"M6.5 8v2.5a2 2 0 0 0 2 2H12M17.5 8v2.5a2 2 0 0 1-2 2H12m0 0V16\" stroke=\"#ffffff\" stroke-width=\"2\"></path></g></svg>",
+            "set_id": 1
+        }
+    ],
+    "sets": [],
+    "groups": []
+}
